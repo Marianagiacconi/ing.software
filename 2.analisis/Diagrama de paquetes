@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2023-05-24T15:11:32.789Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GEGrECVs__HND4V05UVN" version="21.3.2" type="google">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6e0c8c40b5770093-72" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="237.25" width="891.5" height="572.75" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1390" y="160" width="240" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-33" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Verdana; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left;&quot;&gt;- Iniciar sesión&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Verdana; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left;&quot;&gt;- Modificar n días&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=160;tabHeight=26;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="290" width="230" height="145.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MICROBLOG&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="400" y="237.25" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ADMINISTRADOR&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="1040" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-25" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=145;tabHeight=26;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="273.63" width="550" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Enviar mensaje privado&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Re-publicar mensajes públicos&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Publicar mensajes públicos&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Visualizar mensajes públicos&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Visualizar temas del momento&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=155;tabHeight=26;tabPosition=left;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="330" width="196.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-7" value="Enviar correo semanal" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=102;tabHeight=25;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="610" width="192" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NOVEDADES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="610" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-22" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Registrar usuario&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Eliminar cuenta&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Modificar datos personales&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Recuperara contraseña&lt;/div&gt;&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=155;tabHeight=26;tabPosition=left;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="468.63" width="196.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Seguir&amp;nbsp; usuario&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Visualizar seguidores&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Dejar de seguir usuarios&amp;nbsp;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=167;tabHeight=30;tabPosition=left;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="630" width="196.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-24" value="Iniciar seción" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=102;tabHeight=25;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="192" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;LOGING&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GESTIÓN&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;MENSAJES&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="330" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GESTIÓN&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SEGUIDORES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="630" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-28" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;USUARIO&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GESTIÓN&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;USUARIO&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="468.63" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-33" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=60;entryPerimeter=0;exitX=0;exitY=0;exitDx=196.75;exitDy=68;exitPerimeter=0;" edge="1" parent="1" source="sr3mrjfSmro4EktBrv1B-1" target="sr3mrjfSmro4EktBrv1B-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="990" y="600" as="sourcePoint" />
+            <mxPoint x="1150" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-34" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.737;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=196.75;exitDy=89;exitPerimeter=0;" edge="1" parent="1" source="sr3mrjfSmro4EktBrv1B-22" target="sr3mrjfSmro4EktBrv1B-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="408" as="sourcePoint" />
+            <mxPoint x="730" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sr3mrjfSmro4EktBrv1B-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=196.75;exitDy=70;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=77.5;entryPerimeter=0;" edge="1" parent="1" source="sr3mrjfSmro4EktBrv1B-23" target="sr3mrjfSmro4EktBrv1B-24">
+          <mxGeometry x="-0.0673" y="8" width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="418" as="sourcePoint" />
+            <mxPoint x="720" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="620" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
